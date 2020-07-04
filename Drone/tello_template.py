@@ -1,5 +1,4 @@
 from Tello_api import Tello
-from EP_api import Robot, findrobotIP
 import cv2
 import time
 
